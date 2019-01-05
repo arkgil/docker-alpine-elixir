@@ -1,8 +1,8 @@
-FROM arkgil/alpine-erlang:$ERLANG_VSN
+FROM arkgil/alpine-erlang:21.2.2
 
 LABEL maintainer="Arkadiusz Gil <arkadiusz@arkgil.net>"
 
-ENV ELIXIR_VERSION=$ELIXIR_VSN
+ENV ELIXIR_VERSION=v1.7.4
 
 WORKDIR /tmp/elixir-build
 

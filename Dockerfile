@@ -2,7 +2,7 @@ FROM arkgil/alpine-erlang:19.3.6.12
 
 LABEL maintainer="Arkadiusz Gil <arkadiusz@arkgil.net>"
 
-ENV ELIXIR_VERSION=1.5.3
+ENV ELIXIR_VERSION=v1.5.3
 
 WORKDIR /tmp/elixir-build
 

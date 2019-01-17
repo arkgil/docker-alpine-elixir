@@ -1,4 +1,4 @@
-FROM arkgil/alpine-erlang:20.3.8.16
+FROM arkgil/alpine-erlang:20.3.8.18
 
 LABEL maintainer="Arkadiusz Gil <arkadiusz@arkgil.net>"
 

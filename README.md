@@ -1,3 +1,5 @@
+**DEPRACATED** Please use https://hub.docker.com/r/hexpm/elixir instead.
+
 # Elixir on Alpine Docker image
 
 This repo provides a Dockerfile for building Alpine Docker image with Elixir installed.
